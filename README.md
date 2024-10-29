@@ -84,6 +84,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/lincolnvalerio/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/lincolnvalerio/lincolnvalerio/output/snake.svg" alt="Snake animation" />
 
 ###
