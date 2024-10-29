@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">- **Email:** [XXXXXXXXXXXXXXXXXX]  <br>- **GitHub:** [github.com/lincolnvalerio](https://github.com/lincolnvalerio)  <br>- **LinkedIn:** [https://www.linkedin.com/in/lincoln-patrick-727591335/]</p>
+<p align="left">- **Email:** [XXXXXXXXXXXXXXXXXX]  <br>- **GitHub:**https://github.com/lincolnvalerio  <br>- **LinkedIn:** https://www.linkedin.com/in/lincoln-patrick-727591335/</p>
 
 ###
 
