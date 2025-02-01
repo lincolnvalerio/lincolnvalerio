@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">- 🔎 **Interesses**: Estudo programação e gosto de aprender tudo o que é novo.  <br>- 💡 **Foco atual**: Aprofundando conhecimentos em desenvolvimento front-end e aprimorando minhas habilidades na criação de interfaces modernas.<br>- 🚀 **Objetivo**: Me tornar cada vez mais habilidoso e colaborar em projetos significativos.  <br>- 🎯 **O que me motiva**: Resolver problemas, aprender continuamente e aplicar na prática o que estudo.  <br>- ??? **E quem ta me motivando**:João 16:33:"No mundo tereis aflições, mas tende bom ânimo, eu venci o mundo"</p>
+<p align="left">- 🔎 Interesses: Estudo programação e gosto de aprender tudo o que é novo.  <br>- 💡 Foco atual: Aprofundando conhecimentos em desenvolvimento front-end e aprimorando minhas habilidades na criação de interfaces modernas.<br>- 🚀 Objetivo: Me tornar cada vez mais habilidoso e colaborar em projetos significativos.  <br>- 🎯 O que me motiva: Resolver problemas, aprender continuamente e aplicar na prática o que estudo.  <br>- ??? E quem ta me motivando: João 16:33: "No mundo tereis aflições, mas tende bom ânimo, eu venci o mundo"</p>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">-Linguagens: PYTHON 🐍, HTML 🌐, CSS 🎨, JavaScript 💻 (e aprendendo mais sempre!)<br>-Ferramentas: Git/GitHub 🛠️, VS Code 💼<br>-Áreas de Interesse: Desenvolvimento Web 🌟, scripts personalizados 📜, Otimização de Performance ⚡</p>
+<p align="left">- Linguagens: PYTHON 🐍, HTML 🌐, CSS 🎨, JavaScript 💻 (e aprendendo mais sempre!)<br>- Ferramentas: Git/GitHub 🛠️, VS Code 💼<br>- Áreas de Interesse: Desenvolvimento Web 🌟, scripts personalizados 📜, Otimização de Performance ⚡</p>
 
 ###
 
@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">- 🌐Front-end para sites e sistemas simples <br>- 🐍Programação em Python com foco em automações e projetos práticos,  como manipuladores de dados<br>-⚙️Desenvolvimento de scripts e automações</p>
+<p align="left">- 🌐 Front-end para sites e sistemas simples <br>- 🐍 Programação em Python com foco em automações e projetos práticos, como manipuladores de dados<br>- ⚙️ Desenvolvimento de scripts e automações</p>
 
 ###
 
@@ -30,19 +30,19 @@
 
 ###
 
-<p align="left">- **Email:** [XXXXXXXXXXXXXXXXXX]  <br>- **GitHub:**https://github.com/lincolnvalerio  <br>- **LinkedIn:** https://www.linkedin.com/in/lincoln-patrick-727591335/</p>
+<p align="left">- Email: [XXXXXXXXXXXXXXXXXX]  <br>- GitHub: https://github.com/lincolnvalerio  <br>- LinkedIn: https://www.linkedin.com/in/lincoln-patrick-727591335/</p>
 
 ###
 
-<h3 align="center">😄 Curiosidades  sobre mim</h3>
+<h3 align="center">😄 Curiosidades sobre mim</h3>
 
 ###
 
-<p align="left">-⚡ Curiosidade: Iniciei minha jornada na programação por causa de um amigo que me apresentou o Python, uma linguagem fácil que me ajudou a entender os fundamentos da "Programação".<br><br>-🌟Embora o back-end me atraia, optei por focar no front-end.<br>No futuro, quem sabe, me tornarei um desenvolvedor full stack.<br><br>- 🔧Depois de anos trabalhando com mecânica, troquei ferramentas por linhas de código, e a cada projeto, sinto a emoção de construir algo novo, como se estivesse consertando e montando uma máquina.</p>
+<p align="left">- ⚡ Curiosidade: Iniciei minha jornada na programação por causa de um amigo que me apresentou o Python, uma linguagem fácil que me ajudou a entender os fundamentos da "Programação".<br><br>- 🌟 Embora o back-end me atraia, optei por focar no front-end.<br>No futuro, quem sabe, me tornarei um desenvolvedor full stack.<br><br>- 🔧 Depois de anos trabalhando com mecânica, troquei ferramentas por linhas de código, e a cada projeto, sinto a emoção de construir algo novo, como se estivesse consertando e montando uma máquina.</p>
 
 ###
 
-<h3 align="center"><🗺️Minha historia/></h3>
+<h3 align="center"><🗺️ Minha história/></h3>
 
 ###
 
@@ -51,6 +51,7 @@
 ###
 
 <h3 align="center">Tech</h3>
+
 
 ###
 
