@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">- 🌐 Front-end para sites e sistemas simples <br>- 🐍 Programação em Python com foco em automações e projetos práticos, como manipuladores de dados<br>- ⚙️ Desenvolvimento de scripts e automações</p>
+<p align="left">- 🌐 Front-end para sites<br>- 🐍 Programação em Python com foco em automações e projetos práticos<br>- ⚙️ Desenvolvimento de scripts e automações</p>
 
 ###
 
